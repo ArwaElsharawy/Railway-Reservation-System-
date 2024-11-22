@@ -1,0 +1,35 @@
+﻿  RailWaycpp.cpp
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(35,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(27,15): warning C4101: 'delnumber': unreferenced local variable
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(77,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(140,22): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(155,22): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(69,15): warning C4101: 'delnumber': unreferenced local variable
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(208,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(217,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(198,15): warning C4101: 'delnumber': unreferenced local variable
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(198,64): warning C4101: 'Upnumber': unreferenced local variable
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(299,15): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(348,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(366,21): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(396,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(406,21): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(436,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(488,19): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(548,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(560,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(570,21): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(608,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(622,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(642,22): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(648,22): warning C4553: '==': result of expression not used; did you intend '='?
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(651,23): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(598,15): warning C4101: 'delnumber': unreferenced local variable
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(712,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(736,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(744,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(777,20): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\RailWay Project\RailWay Project\RailWaycpp.cpp(788,20): warning C4018: '<': signed/unsigned mismatch
+  RailWay Project.vcxproj -> D:\source\repos\RailWay Project\Debug\RailWay Project.exe
